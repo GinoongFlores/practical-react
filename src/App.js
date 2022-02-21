@@ -9,24 +9,6 @@ const Body = () => (
   </p>
 );
 
-/*
-const Body = () => { // Creating a function (with return method)
-  return (
-    <p clasName="App-intro">
-      To get started, edit <code>src/App.js</code> and save to run.
-    </p>
-  );
-}; */
-
-/*
-function Body () { // Creating a function (with the function keyword)
-  return (
-    <p clasName="App-intro">
-      To get started, edit <code>src/App.js</code> and save to run.
-    </p>
-  );
-}; */
-
 class Header extends Component {
   //older way of writing class components
   render() {
